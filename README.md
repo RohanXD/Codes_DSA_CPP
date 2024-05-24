@@ -1,1 +1,1 @@
-                        These are my codes that i created when i studying c++ in college
+                        These are my C++ codes that I created when I was in college
